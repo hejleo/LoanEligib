@@ -1,1 +1,1 @@
-# client_b
+Eligibility of a client
